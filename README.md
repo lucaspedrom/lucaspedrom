@@ -97,14 +97,13 @@ Sou **Engenheiro de Dados** focado na construção de arquiteturas de ingestão 
 ---
 
 ### 📊 Estatísticas do GitHub
-<!--
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaspedrom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Lucas no GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspedrom&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais utilizadas" />
-</div>
--->
 <div align="center">
   <br />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=lucaspedrom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Lucas no GitHub" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lucaspedrom&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens mais utilizadas" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspedrom&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
