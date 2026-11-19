@@ -1,9 +1,9 @@
 <div align="center">
 
 # Olá, sou o Lucas Pedro 👋
-### Engenheiro de Dados & Desenvolvedor de Software
+### Data & Analytics Engineer | Python • Parquet • Power BI (PBIP/DAX) • DuckDB • AWS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Engenharia+de+Dados+%7C+Pipelines+Resilientes;Performance+Engineering+%26+FinOps;Python+%E2%80%A2+DuckDB+%E2%80%A2+SQL+%E2%80%A2+Airflow+%E2%80%A2+AWS;Rust+%E2%80%A2+Tauri+%E2%80%A2+TypeScript+%E2%80%A2+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Data+%26+Analytics+Engineering+%7C+End-to-End;Pipelines+de+Alta+Performance+%26+FinOps;Power+BI+Developer+Mode+(PBIP+%2F+TMDL)+%2B+DAX;Python+%E2%80%A2+Apache+Parquet+%E2%80%A2+DuckDB+%E2%80%A2+AWS)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucaspedrom/" target="_blank">
@@ -23,59 +23,60 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Dados** focado na construção de arquiteturas de ingestão escaláveis, otimização de I/O, engenharia de performance e soluções serverless. Combino forte rigor analítico e FinOps com desenvolvimento de software de alto rendimento.
+Sou **Data & Analytics Engineer** especializado na concepção de ecossistemas analíticos ponta a ponta: desde a ingestão otimizada em *streaming*, compressão colunar e arquitetura de dados, até a modelagem dimensional avançada em **Power BI Project (`.pbip` / TMDL)** e plataformas analíticas interativas.
 
-- 🔭 **Atuação principal:** Pipelines de dados resilientes, streaming *in-memory*, otimização de armazenamento e orquestração.
-- ⚡ **Engenharia de Performance & FinOps:** Redução comprovada de 97,5% em custos de armazenamento de dados (*Apache Parquet* com compressão ZSTD) e profiling rigoroso de CPU/RAM/Disco.
-- 🛠️ **Além dos dados:** Desenvolvimento de ferramentas de alta performance explorando **Rust**, **Tauri v2** e **TypeScript/React**.
+- 🔭 **Engenharia de Dados & FinOps:** Foco em redução radical de I/O e custos de storage — alcancei **97,5% de economia em disco** (de 11 GB CSV para 278 MB Parquet com ZSTD) comprovada cientificamente via benchmark.
+- 📊 **Analytics Engineering & BI Moderno:** Modelagem semântica robusta em Power BI com **controle de versão Git nativo (PBIP/TMDL)**, dezenas de medidas DAX analíticas (*What-If*, quocientes eleitorais, regras de barreira) e camadas Gold portáteis em Parquet.
+- ⚡ **Resolução de Entidades & Automação:** Ingestão híbrida multi-fonte (APIs, Web Scraping e LLMs) com cruzamento cadastral (*fuzzy matching*) de dezenas de milhares de registros.
+- 🛠️ **Sistemas & Performance:** Desenvolvimento de ferramentas de alto rendimento combinando **Rust**, **Tauri v2**, **SQLite** e **TypeScript/React 19**.
 - 📍 **Localização:** Brasil 🇧🇷
 
 ---
 
-### 🧰 Tech Stack & Ferramentas
+### 🧰 Tech Stack & Especialidades
 
 <table>
   <tr>
-    <td align="left" width="25%"><b>Engenharia de Dados & Cloud</b></td>
+    <td align="left" width="26%"><b>Analytics & Business Intelligence</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Apache%20Parquet-50C878?style=flat-square&logo=apache&logoColor=white" alt="Parquet" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Power_BI_Project_(PBIP)-E8A900?style=flat-square&logo=microsoft&logoColor=white" alt="PBIP" />
+      <img src="https://img.shields.io/badge/DAX-D83B01?style=flat-square&logo=microsoftexcel&logoColor=white" alt="DAX" />
+      <img src="https://img.shields.io/badge/TMDL-5C2D91?style=flat-square&logo=git&logoColor=white" alt="TMDL" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Engenharia de Dados & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache_Parquet-50C878?style=flat-square&logo=apache&logoColor=white" alt="Parquet" />
       <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
-      <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
+      <img src="https://img.shields.io/badge/PyArrow-E05A47?style=flat-square&logo=apachearrow&logoColor=white" alt="PyArrow" />
+      <img src="https://img.shields.io/badge/AWS_(S3_|_Lambda_|_SAM)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Linguagens & Gerenciadores</b></td>
+    <td align="left"><b>Linguagens & Ecossistema</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white" alt="uv" />
+      <img src="https://img.shields.io/badge/Python_3.13+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/uv_(Astral)-DE5FE9?style=flat-square&logo=astral&logoColor=white" alt="uv" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Analytics & Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>DevOps & Performance</b></td>
+    <td align="left"><b>DevOps & Engenharia</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/AWS%20SAM-E7157B?style=flat-square&logo=awsorganizations&logoColor=white" alt="AWS SAM" />
+      <img src="https://img.shields.io/badge/Git_Worktree-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/FinOps-00A86B?style=flat-square&logo=money&logoColor=white" alt="FinOps" />
+      <img src="https://img.shields.io/badge/RapidFuzz-4B8BBE?style=flat-square&logo=pypi&logoColor=white" alt="RapidFuzz" />
     </td>
   </tr>
 </table>
@@ -84,14 +85,22 @@ Sou **Engenheiro de Dados** focado na construção de arquiteturas de ingestão 
 
 ### 🚀 Projetos em Destaque
 
+#### 🏛️ Ecossistema de Inteligência Política & Engenharia de Dados (End-to-End)
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| 🔬 **[benchmark-opt-tse-analytics](https://github.com/lucaspedrom/benchmark-opt-tse-analytics)** | Suíte de testes de benchmark e FinOps comprovando **redução de 97,5% em disco** (de 11 GB CSV para 278 MB Parquet) com profiling contínuo de recursos (CPU/RAM/I-O). | `Python 3.13` `Apache Parquet` `FinOps` `psutil` `uv` |
-| 📊 **[opt-tse-analytics](https://github.com/lucaspedrom/opt-tse-analytics)** | Pipeline analítico de alta performance com concorrência otimizada, connection pooling e entrega de dados colunares prontos para consulta (*Analytics-Ready*). | `Python` `Streaming In-Memory` `PyArrow` `Parquet` |
-| 🛡️ **[ payment-fraud-analytics-platform](https://github.com/lucaspedrom/payment-fraud-analytics-platform)** | Plataforma analítica executiva para detecção de fraudes, modelagem de risco transacional (ROI) e inteligência interativa. | `Python` `DuckDB` `Streamlit` `Plotly` |
-| ☁️ **[pipeline-ingestao-dados-aws](https://github.com/lucaspedrom/pipeline-ingestao-dados-aws)** | Pipeline serverless para ingestão diária automatizada de dados em S3 Data Lake. | `AWS SAM` `Lambda` `EventBridge` `S3` `CloudWatch` |
-| 🏦 **[bcb-selic-pipeline](https://github.com/lucaspedrom/bcb-selic-pipeline)** | Pipeline automatizado para extração, tratamento e carga da taxa Selic via API do Banco Central. | `Python` `APIs` `SQL` `Automation` |
-| ⏱️ **[study-chrono](https://github.com/lucaspedrom/study-chrono)** | Cronômetro de alta precisão para controle de horas líquidas de estudo com arquitetura dual (Desktop & Web). | `Rust` `Tauri v2` `SQLite` `TypeScript` `React 19` |
+| 📈 **[simulacao-federacao](https://github.com/lucaspedrom/simulacao-federacao)** | Dashboard analítico em Power BI Project (`.pbip` / TMDL) para simulação *What-If* de federações partidárias, tempo de rádio/TV, fundos eleitorais e cláusula de barreira com **88 medidas DAX** e dados colunares Parquet. | `Power BI (PBIP)` `DAX` `Apache Parquet` `TMDL` |
+| 🔍 **[gestao-mandatarios-brasil](https://github.com/lucaspedrom/gestao-mandatarios-brasil)** | Pipeline analítico multi-fonte (APIs de Câmaras/Senado + Scrapers + IA) reconciliando **mais de 71 mil mandatários políticos** em exercício via *fuzzy matching* (`rapidfuzz`) conectado ao Power BI. | `Python` `RapidFuzz` `Parquet` `PBIP` `APIs REST` |
+| 🔬 **[benchmark-opt-tse-analytics](https://github.com/lucaspedrom/benchmark-opt-tse-analytics)** | Suíte científica de benchmark comprovando **redução de 97,5% em disco** (de 11 GB CSV para 278 MB Parquet) com protocolo experimental RCBD, profiling de CPU/RAM/Disco via `psutil` e isolamento por `git worktree`. | `Python 3.13` `Apache Parquet` `FinOps` `psutil` `uv` |
+| 🗳️ **[opt-tse-analytics](https://github.com/lucaspedrom/opt-tse-analytics)** | Pipeline colunar vetorial de alta performance com streaming *in-memory* de ZIP para Parquet particionado (Hive) via PyArrow com compressão ZSTD. | `Python` `Streaming In-Memory` `PyArrow` `Parquet` |
+| 📋 **[potenciais-eleitos-bi](https://github.com/lucaspedrom/potenciais-eleitos-bi)** | Painel em Power BI (`.pbip`) e base Parquet para classificação de potencial de candidaturas, quocientes eleitorais e análise de financiamento de campanha (2022/2024). | `Power BI (PBIP)` `Python` `Parquet` `DAX` |
+
+#### 🛡️ Análise de Riscos, Cloud & Sistemas
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[payment-fraud-analytics-platform](https://github.com/lucaspedrom/payment-fraud-analytics-platform)** | Plataforma analítica executiva para detecção de fraudes em pagamentos, modelagem heurística de risco (estimativa de ROI) e dashboard interativo em Streamlit com DuckDB. | `Python` `DuckDB` `Streamlit` `Plotly` `SQLite` |
+| ☁️ **[pipeline-ingestao-dados-aws](https://github.com/lucaspedrom/pipeline-ingestao-dados-aws)** | Pipeline serverless para ingestão diária automatizada de dados em S3 Data Lake com AWS SAM, Lambda, EventBridge e CloudWatch. | `AWS SAM` `Lambda` `EventBridge` `S3` `CloudWatch` |
+| 🏦 **[bcb-selic-pipeline](https://github.com/lucaspedrom/bcb-selic-pipeline)** | Pipeline automatizado para extração, tratamento e carga da taxa diária Selic diretamente da API do Banco Central do Brasil. | `Python` `APIs` `SQL` `Automation` |
+| ⏱️ **[study-chrono](https://github.com/lucaspedrom/study-chrono)** | Cronômetro de alta precisão para controle de horas líquidas de estudo com arquitetura dual nativa (Desktop em Tauri v2 + Rust e Web em React 19). | `Rust` `Tauri v2` `SQLite` `TypeScript` `React 19` |
 
 ---
 
@@ -110,5 +119,5 @@ Sou **Engenheiro de Dados** focado na construção de arquiteturas de ingestão 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com carinho para o perfil de Lucas Pedro, com auxílio de Inteligência Artificial. Sinta-se à vontade para conectar-se ou contribuir!</sub>
+  <sub>Desenvolvido com carinho para o perfil de Lucas Pedro. Sinta-se à vontade para conectar-se ou contribuir!</sub>
 </div>
